@@ -1,0 +1,15 @@
+D:\Github\MultiGames-1\Mario\Block.cpp;D:\Github\MultiGames-1\Mario\x64\Debug\Block.obj
+D:\Github\MultiGames-1\Mario\Entity.cpp;D:\Github\MultiGames-1\Mario\x64\Debug\Entity.obj
+D:\Github\MultiGames-1\Mario\EntityManager.cpp;D:\Github\MultiGames-1\Mario\x64\Debug\EntityManager.obj
+D:\Github\MultiGames-1\Mario\Game.cpp;D:\Github\MultiGames-1\Mario\x64\Debug\Game.obj
+D:\Github\MultiGames-1\Mario\Gomba.cpp;D:\Github\MultiGames-1\Mario\x64\Debug\Gomba.obj
+D:\Github\MultiGames-1\Mario\IManagable.cpp;D:\Github\MultiGames-1\Mario\x64\Debug\IManagable.obj
+D:\Github\MultiGames-1\Mario\IManager.cpp;D:\Github\MultiGames-1\Mario\x64\Debug\IManager.obj
+D:\Github\MultiGames-1\Mario\InputManager.cpp;D:\Github\MultiGames-1\Mario\x64\Debug\InputManager.obj
+D:\Github\MultiGames-1\Mario\Koopa.cpp;D:\Github\MultiGames-1\Mario\x64\Debug\Koopa.obj
+D:\Github\MultiGames-1\Mario\Main.cpp;D:\Github\MultiGames-1\Mario\x64\Debug\Main.obj
+D:\Github\MultiGames-1\Mario\Map.cpp;D:\Github\MultiGames-1\Mario\x64\Debug\Map.obj
+D:\Github\MultiGames-1\Mario\MapManager.cpp;D:\Github\MultiGames-1\Mario\x64\Debug\MapManager.obj
+D:\Github\MultiGames-1\Mario\Mario.cpp;D:\Github\MultiGames-1\Mario\x64\Debug\Mario.obj
+D:\Github\MultiGames-1\Mario\Singleton.cpp;D:\Github\MultiGames-1\Mario\x64\Debug\Singleton.obj
+D:\Github\MultiGames-1\Mario\TextureManager.cpp;D:\Github\MultiGames-1\Mario\x64\Debug\TextureManager.obj
