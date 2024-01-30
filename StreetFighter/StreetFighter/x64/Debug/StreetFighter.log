@@ -1,0 +1,10 @@
+﻿  Entity.cpp
+  Fighter.cpp
+C:\Users\GIAC0411\Documents\GitHub\MultiGames-1\StreetFighter\StreetFighter\Fighter.cpp(5,56): error C2512: 'Entity::Entity': no appropriate default constructor available
+C:\Users\GIAC0411\Documents\GitHub\MultiGames-1\StreetFighter\StreetFighter\Fighter.cpp(5,56): message : while trying to match the argument list '()'
+  Game.cpp
+  MovementComponent.cpp
+  Wall.cpp
+C:\Users\GIAC0411\Documents\GitHub\MultiGames-1\StreetFighter\StreetFighter\Wall.cpp(3,22): error C2512: 'Entity::Entity': no appropriate default constructor available
+C:\Users\GIAC0411\Documents\GitHub\MultiGames-1\StreetFighter\StreetFighter\Wall.cpp(3,22): message : while trying to match the argument list '()'
+  Generating Code...
