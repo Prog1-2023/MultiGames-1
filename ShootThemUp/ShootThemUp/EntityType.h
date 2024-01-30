@@ -1,0 +1,9 @@
+#pragma once
+enum EntityType
+{
+	ENTITY_NONE,
+	ENTITY_SHIP,
+	ENTITY_ALIEN,
+	ENTITY_BULLET,
+	ENTITY_BONUS
+};

@@ -1,0 +1,9 @@
+﻿  Alien.cpp
+  Entity.cpp
+  Game.cpp
+  InputManager.cpp
+  Main.cpp
+C:\Users\ALIZ0110\Desktop\MultiGames-1\ShootThemUp\ShootThemUp\Main.cpp(6,8): error C2039: 'Lauch': is not a member of 'Game'
+C:\Users\ALIZ0110\Desktop\MultiGames-1\ShootThemUp\ShootThemUp\Game.h(12,7): message : see declaration of 'Game'
+  Ship.cpp
+  Generating Code...
