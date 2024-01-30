@@ -1,0 +1,10 @@
+#pragma once
+
+enum EntityType
+{
+	ENTITY_NONE,
+	ENTITY_PLAYER,
+	ENTITY_MONSTER,
+	ENTITY_PNG,
+	ENTITY_BOSS,
+};
